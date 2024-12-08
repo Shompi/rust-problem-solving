@@ -1,0 +1,6 @@
+[package]
+name = "check_if_double_exists"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
