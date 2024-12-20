@@ -1,0 +1,6 @@
+[package]
+name = "is_prefix_of_word"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
